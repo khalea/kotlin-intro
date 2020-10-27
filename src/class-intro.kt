@@ -13,6 +13,10 @@ class Person(_firstName: String, _lastName: String) {
         firstName = _firstName
         lastName = _lastName
     }
+
+    fun printInfo() {
+        println("$firstName $lastName")
+    }
 }
 
 class Human(_firstName: String, _lastName: String) {
