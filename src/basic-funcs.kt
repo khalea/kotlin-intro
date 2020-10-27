@@ -1,3 +1,4 @@
+// 2. Funcs
 // Function name & params followed by return type
 fun getGreeting(): String {
     return "Hello Kotlin"

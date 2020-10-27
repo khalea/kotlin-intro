@@ -1,3 +1,5 @@
+// 5. Arrays, Lists, Maps, Mutability
+
 fun saySmth(greeting: String, thing: String) = println("$greeting, $thing!")
 
 fun main() {

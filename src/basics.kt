@@ -1,6 +1,6 @@
 import kotlin.reflect.typeOf
 
-// Basics — Hello, variables,
+// 1. Basics — Hello, variables,
 
 
 // Top Level Variable: Outside of a function

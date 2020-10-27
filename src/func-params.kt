@@ -1,3 +1,5 @@
+// 4. Func Parameters & Templates
+
 fun hello(thing: String) {
     val msg = "Hello, ${1+2}!" // Templating 1: Can use variables & perform operations
     val msg2 = "Salut, $thing!" // Templating 2: Use variables
