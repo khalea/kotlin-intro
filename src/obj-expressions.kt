@@ -1,1 +1,1 @@
-// 11. Object Expressions, Companion Objects, Object Deckarations
+// 11. Object Expressions, Companion Objects, Object Declarations
